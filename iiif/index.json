@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Documents"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/50eb9dc83d71a89cd903c67c18b790b0/full/210,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 210
+        }
+    ],
+    "items": [
+        {
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ASR_TNC_uff_15_1624_pt1vol99fol367r"
+                ]
+            }
+        },
+        {
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Sample image from Archivio Capitolino"
+                ]
+            }
+        }
+    ]
+}

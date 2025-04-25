@@ -1,0 +1,155 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Sample image from Archivio Capitolino"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio Capitolino"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1620"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Document"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by Archivio Capitolino"
+            ]
+        }
+    },
+    "rights": "Archivio Capitolino",
+    "thumbnail": [
+        {
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/bb1e62d01f892ae5767a699245a405f8/full/219,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 219
+        }
+    ],
+    "items": [
+        {
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1",
+            "type": "Canvas",
+            "height": 3787,
+            "width": 2760,
+            "label": {
+                "none": [
+                    "0003_1"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/bb1e62d01f892ae5767a699245a405f8/full/219,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 219
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1",
+                            "body": {
+                                "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/bb1e62d01f892ae5767a699245a405f8/full/1458,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1458,
+                                "service": [
+                                    {
+                                        "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/bb1e62d01f892ae5767a699245a405f8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>This image is a test</p>"
+                            }
+                        },
+                        {
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/canvas/1#xywh=1508,370,178,172",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": {
+                                    "x": 1508,
+                                    "y": 370,
+                                    "width": 178,
+                                    "height": 172
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
