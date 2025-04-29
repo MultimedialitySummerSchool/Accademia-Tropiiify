@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/index.json",
+    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/50eb9dc83d71a89cd903c67c18b790b0/full/210,300/0/default.jpg",
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/50eb9dc83d71a89cd903c67c18b790b0/full/210,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/manifest.json",
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/manifest.json",
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/2/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
