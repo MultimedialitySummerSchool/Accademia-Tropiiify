@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/manifest.json",
+    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -60,7 +60,7 @@
     "rights": "Archivio di Stato Roma Italy",
     "thumbnail": [
         {
-            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/50eb9dc83d71a89cd903c67c18b790b0/full/210,300/0/default.jpg",
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/50eb9dc83d71a89cd903c67c18b790b0/full/210,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -69,7 +69,7 @@
     ],
     "items": [
         {
-            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1",
+            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1",
             "type": "Canvas",
             "height": 560,
             "width": 392,
@@ -80,7 +80,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/50eb9dc83d71a89cd903c67c18b790b0/full/210,300/0/default.jpg",
+                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/50eb9dc83d71a89cd903c67c18b790b0/full/210,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -89,23 +89,23 @@
             ],
             "items": [
                 {
-                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-1",
+                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-1/anno-1",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1",
                             "body": {
-                                "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/50eb9dc83d71a89cd903c67c18b790b0/full/392,560/0/default.jpg",
+                                "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/50eb9dc83d71a89cd903c67c18b790b0/full/392,560/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 560,
                                 "width": 392,
                                 "service": [
                                     {
-                                        "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/50eb9dc83d71a89cd903c67c18b790b0",
+                                        "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/50eb9dc83d71a89cd903c67c18b790b0",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -117,14 +117,14 @@
             ],
             "annotations": [
                 {
-                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2",
+                    "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-1",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -132,10 +132,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-2",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=96,140,40,17",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=96,140,40,17",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -143,10 +143,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-3",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=218,137,107,18",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=218,137,107,18",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -154,10 +154,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-4",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=180,198,134,25",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=180,198,134,25",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -165,10 +165,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-5",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-5",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=147,223,82,21",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=147,223,82,21",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -176,10 +176,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-6",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-6",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=201,257,63,36",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=201,257,63,36",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -187,10 +187,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-7",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-7",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=259,39,105,26",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=259,39,105,26",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -198,10 +198,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-8",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-8",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=176,23,119,17",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=176,23,119,17",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -209,10 +209,10 @@
                             }
                         },
                         {
-                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1/annopage-2/anno-9",
+                            "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1/annopage-2/anno-9",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/canvas/1#xywh=304,121,29,14",
+                            "target": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/canvas/1#xywh=304,121,29,14",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
