@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/50eb9dc83d71a89cd903c67c18b790b0",
+  "id": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/50eb9dc83d71a89cd903c67c18b790b0",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
